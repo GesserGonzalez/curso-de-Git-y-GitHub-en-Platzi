@@ -23,11 +23,19 @@ padding: 0;
     width: 80%;
     padding: 1em;
     text-align: right;
-    border: 1px solid rgb(44, 122, 8);
+    border: 1px solid rgb(81, 225, 250);
     margin: 0 auto;
 }
 
 *container h1
 {
     font-size: 20px;
+}
+
+#cabecera 
+{
+    background-color: rgb(243, 77, 0);
+    color: rgb(75, 250, 119);
+    font-size: 16 px;
+    font-family: "Arial";
 }
